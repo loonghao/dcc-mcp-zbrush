@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.28](https://github.com/dcc-mcp/dcc-mcp-zbrush/compare/v0.2.27...v0.2.28) (2026-10-06)
+
+
+### Documentation
+
+* **readme:** add the generated DCC-MCP host matrix pointer ([#85](https://github.com/dcc-mcp/dcc-mcp-zbrush/issues/85)) ([757137b](https://github.com/dcc-mcp/dcc-mcp-zbrush/commit/757137bb22d6297ca530cc6c879a414086c086e0))
+
 ## [0.2.27](https://github.com/dcc-mcp/dcc-mcp-zbrush/compare/v0.2.26...v0.2.27) (2026-09-29)
 
 
